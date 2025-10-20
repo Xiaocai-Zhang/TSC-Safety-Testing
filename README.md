@@ -9,5 +9,6 @@ pandas==2.1.4
 pywinauto==0.6.9
 alive_progress==3.2.0
 joblib==1.2.0
+tensorflow_probability==0.25.0
 ```
 The microscopic traffic simulation is using PTV VISSIM 2022.
