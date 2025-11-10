@@ -12,7 +12,7 @@ joblib==1.2.0
 tensorflow_probability==0.25.0
 ```
 The microscopic traffic simulation environment is based on PTV VISSIM 2022, which requires an active subscription license to run.
-The code_p1 folder contains safety-testing implementations for the following TSC models: A2C, DQDQN, DQN, IQN, PPO, REINFORCE, and SAC.
+The code_p1 folder contains safety-testing implementations for the following Traffic Signal Control (TSC) models: A2C, DQDQN, DQN, IQN, PPO, REINFORCE, and SAC.
 The code_p2 folder includes implementations of the Webster-1 and Webster-2 models.
 The code_p3 folder is for the MP model.
 ## Execute
