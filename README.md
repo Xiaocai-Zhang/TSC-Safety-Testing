@@ -16,7 +16,7 @@ The code_p1 folder contains safety-testing implementations for the following Tra
 The code_p2 folder includes implementations of the Webster-1 and Webster-2 models.
 The code_p3 folder is for the MP model.
 ## Execute
-For each folder, unzip SSAM.7z archive. Configure the model and mode in the script. For example:
+For each folder, unzip SSAM.7z archive. Configure the model and mode (original or after applying SCRT) in the script. For example:
 ```
 TSCmodel = 'A2C'
 Mode = "bef SCRT"
