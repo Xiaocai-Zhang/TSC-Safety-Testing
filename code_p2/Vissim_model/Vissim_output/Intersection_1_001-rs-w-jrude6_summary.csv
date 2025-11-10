@@ -1,0 +1,30 @@
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-All Files,TTC,2.5183e-006,5,2.68633,2.56473
+Unfiltered-All Files,PET,0,3,1.9749,1.21725
+Unfiltered-All Files,MaxS,0,17.9772,5.95359,12.5207
+Unfiltered-All Files,DeltaS,0,17.6681,2.77555,4.63082
+Unfiltered-All Files,DR,-7.86998,2.59033,-2.02587,4.27386
+Unfiltered-All Files,MaxD,-8.40696,2.59033,-2.92473,5.77792
+Unfiltered-All Files,MaxDeltaV,0,10.6635,1.72737,1.93044
+Unfiltered-All Files,P(UEA),1,1,1,0
+Unfiltered-All Files,mTTC,99,99,99,0
+Unfiltered-All Files,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,TTC,2.5183e-006,5,2.68633,2.56473
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,PET,0,3,1.9749,1.21725
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,MaxS,0,17.9772,5.95359,12.5207
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,DeltaS,0,17.6681,2.77555,4.63082
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,DR,-7.86998,2.59033,-2.02587,4.27386
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,MaxD,-8.40696,2.59033,-2.92473,5.77792
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,MaxDeltaV,0,10.6635,1.72737,1.93044
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,mPET,99,99,99,0
+
+
+Summary Group , Total, unclassified,crossing,rear end,lane change,
+Unfiltered-All Files,717,0,0,657,60,
+Unfiltered-C:\Users\xiaocaiz\OneDrive - The University of Melbourne\Documents\Code\AdTesting\code_p2\Vissim_model\Vissim_output\Intersection_1_001-rs-w-jrude6.trj,717,0,0,657,60,
