@@ -1,4 +1,4 @@
-# Towards Safer Cities: A Safety-Oriented Framework for Urban Traffic Signal Control Testing and Enhancement
+# Model-Agnostic Adversarial Safety Testing and Enhancement of Traffic Signal Control for Safe Deployment
 ## Setup
 The code was developed and tested on Windows 10 using Python 3.11 and TensorFlow 2.18.0.
 The required third-party packages are:
